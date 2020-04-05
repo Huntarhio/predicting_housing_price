@@ -1,6 +1,10 @@
 # predicting_housing_price
 This repository consist of the data science process of predicting the housing price in Boston
 
+## Background
+
+This project is a requirement of the Udacith Data Scientist Nanodegree. The purpose of the project is to provide insights into the boston housing dataset and make inference where necessary. 
+
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -12,6 +16,10 @@ This repository consist of the data science process of predicting the housing pr
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+
+## Library Used <a name="library"></a>
+
+The library used includes pandas for data structure and reading data into notebook, numpy for mathematical analysis, seaborn and matplotlib for data visualization and scikitlearn for model estimation
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -27,12 +35,20 @@ The files used in this project is the boston housing data and can be downloaded 
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook available here to showcase work related to the above questions.  The notebooks contains exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is 1 notebook available here to showcase work related to the above questions.  The notebooks contains exploratory analysis in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps. The repo also contains a csv file that has the dataset used for the analysis
 
 
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@adeotiadegboyega/making-predictions-are-beautiful-528a464ebfeb).
+
+In summary, the analysis revealed that the correlation of the numerical features and the housing price was less than 0.5
+
+## References <a name="reference"></a>
+
+[Predicting the Survival of Titanic Passengers](https://towardsdatascience.com/predicting-the-survival-of-titanic-passengers-30870ccc7e8)
+
+[Tips for Effective Data Visualization](https://towardsdatascience.com/tips-for-effective-data-visualization-d4b2af91db37)
 
 
 
