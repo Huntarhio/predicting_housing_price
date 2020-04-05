@@ -1,17 +1,21 @@
 # predicting_housing_price
 This repository consist of the data science process of predicting the housing price in Boston
 
-## Background
 
-This project is a requirement of the Udacith Data Scientist Nanodegree. The purpose of the project is to provide insights into the boston housing dataset and make inference where necessary. 
 
-### Table of Contents
+### Table of Content8
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Background](#background)
+3. [Installation](#installation)
+4. [Library Used](#library)
+5. [Project Motivation](#motivation)
+6. [File Descriptions](#files)
+7. [Results](#results)
+5. [References](#reference)
+
+## Background <a name="background"></a>
+
+This project is a requirement of the Udacity Data Scientist Nanodegree. The purpose of the project is to provide insights into the boston housing dataset and make inference where necessary. 
 
 ## Installation <a name="installation"></a>
 
@@ -49,6 +53,3 @@ In summary, the analysis revealed that the correlation of the numerical features
 [Predicting the Survival of Titanic Passengers](https://towardsdatascience.com/predicting-the-survival-of-titanic-passengers-30870ccc7e8)
 
 [Tips for Effective Data Visualization](https://towardsdatascience.com/tips-for-effective-data-visualization-d4b2af91db37)
-
-
-
